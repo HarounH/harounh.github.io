@@ -13,11 +13,12 @@ tagline:
 description:      "My personal page."
 url:              https://harounh.github.io
 baseurl:          /
-
+cv_address:       /public/pdfs/cv.pdf
+things:           /things.md
 author:
   name:           'Haroun Habeeb'
   url:            
-
+  github:         https://github.com/harounh
 paginate:         5
 
 # Custom vars
